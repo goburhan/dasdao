@@ -29,7 +29,7 @@ const config: MenuEntry[] = [
          href: '/farms'
        },
         {
-          label: 'Cake Farm',
+          label: 'Cak Farm',
           href: '/cakePools',
         },
         //  {
