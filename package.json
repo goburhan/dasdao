@@ -24,7 +24,6 @@
     ]
   },
   "dependencies": {
-    "private-dep": "git+https://<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>:x-oauth-basic@github.com/goburhan/dasdao.git",
     "@binance-chain/bsc-use-wallet": "^0.8.1",
     "@craco/craco": "^6.2.0",
     "@crowdin/crowdin-api-client": "^1.10.1",
