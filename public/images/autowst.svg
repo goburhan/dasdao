@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.114" height="69.114" viewBox="0 0 69.114 69.114">
+    <defs>
+        <linearGradient id="zchgt2a2ja" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f5e4f4"/>
+            <stop offset=".507" stop-color="#5459f9"/>
+            <stop offset=".67" stop-color="#d5f1e4"/>
+            <stop offset="1" stop-color="#116cec"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(2.557 2.557)">
+        <g data-name="Group 788">
+            <path data-name="Path 383" d="M33.807 0a33.807 33.807 0 1 0 33.807 33.807A33.806 33.806 0 0 0 33.807 0zm0 63.388a29.581 29.581 0 1 1 29.581-29.581 29.58 29.58 0 0 1-29.581 29.581z" transform="translate(-1.807 -1.807)" style="fill:url(#zchgt2a2ja);stroke:#0b1018;stroke-width:1.5px"/>
+            <path data-name="Path 384" d="M32 12a2 2 0 0 0 2-2V8a2 2 0 1 0-4 0v2a2 2 0 0 0 2 2z" style="fill:url(#zchgt2a2ja)"/>
+            <path data-name="Path 385" d="M56.006 30H54a2 2 0 0 0 0 4h2a2 2 0 1 0 0-4z" style="fill:url(#zchgt2a2ja)"/>
+            <path data-name="Path 386" d="M32 52a2 2 0 0 0-2 2v2a2 2 0 1 0 4 0v-2a2 2 0 0 0-2-2z" style="fill:url(#zchgt2a2ja)"/>
+            <path data-name="Path 387" d="M10 30H8a2 2 0 1 0 0 4h2a2 2 0 0 0 0-4z" style="fill:url(#zchgt2a2ja)"/>
+            <path data-name="Path 388" d="m45.258 16.143-20 8a2 2 0 0 0-1.115 1.115l-8 20a2 2 0 0 0 2.6 2.6l20-8a1.99 1.99 0 0 0 1.115-1.115l8-20a2 2 0 0 0-2.6-2.6zm-8.8 20.318L21.59 42.41l5.949-14.873L42.41 21.59z" style="fill:url(#zchgt2a2ja)"/>
+        </g>
+        <circle data-name="Ellipse 57" cx="2" cy="2" r="2" transform="translate(30 30)" style="fill:url(#zchgt2a2ja)"/>
+    </g>
+</svg>

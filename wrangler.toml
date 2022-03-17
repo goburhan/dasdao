@@ -1,0 +1,10 @@
+account_id = "b56cc1099b620a958b6b351b1b168f84"
+name = "robiniav2"
+type = "webpack"
+route = '*.robiniaswap.com/*'
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./build",entry-point = "workers-site"}
+compatibility_date = "2021-09-20"

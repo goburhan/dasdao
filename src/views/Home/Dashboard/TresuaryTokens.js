@@ -1,0 +1,35 @@
+const TresuaryTokens = [
+    {
+        name:"BTCB",
+        address:"0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+    },
+    {
+        name:"BNB",
+        address:"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    },
+    {
+        name:"BUSD",
+        address:"0xe9e7cea3dedca5984780bafc599bd69add087d56"
+    },
+    {
+        name:"USDT",
+        address:"0x55d398326f99059ff775485246999027b3197955"
+    },
+    {
+        name:"ETH",
+        address:"0x2170Ed0880ac9A755fd29B2688956BD959F933F8"
+    },
+    {
+        name:"CAKE",
+        address:"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+    },
+    {
+        name:"WSTBNB",
+        address:"0x4E37C7aB77a9357AD5Ba87a949dcAdeb0Af6cb6A"
+    },
+    {
+        name:"WSTBUSD",
+        address:"0x7bf33458a7D077ea5Aa67313e329741Dd130A9EF"
+    }
+]
+export default TresuaryTokens
